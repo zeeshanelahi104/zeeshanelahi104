@@ -9,7 +9,7 @@ on:
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-  
+
   # Also run on every push on the main branch
   push:
     branches:
@@ -20,23 +20,23 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: windows-latest  # Change to 'ubuntu-latest' if using Ubuntu
+    runs-on: windows-latest # Change to 'ubuntu-latest' if using Ubuntu
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
-    
+
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: "14"
 
       - name: Install dependencies
         run: npm install
 
       - name: Generate the snake files in './dist/'
-        run: npm run generate-snake  # Replace with the actual command you use
+        run: npm run generate-snake # Replace with the actual command you use
 
       - name: Show build status
         run: git status
