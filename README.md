@@ -48,8 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanelahi104&theme=highcontrast&layout=compa")](https://git.io/streak-stats) 
-
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanelahi104&theme=highcontrast&layout=compact" alt="GitHub Streak" /></p>
 
 <br/><br/><br/>
 
