@@ -16,8 +16,6 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/zeeshanelahi104/zeeshanelahi104/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
@@ -55,23 +53,6 @@
 </div>
 
 <hr/>
-
-<!-- <h2 align="center">⚡ Stats ⚡</h2>
-<br> -->
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-# <br/>
-
-### Hi there 👋
 
 <!--
 **zeeshanelahi104/zeeshanelahi104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
